@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parthvirana29
-- 👀 I’m interested in a full-time software engineer/ software developer role.  
-- 🌱 I’m currently learning objects and algorithms. 
+- 👀 I’m a software engineer
+- 🌱 I’m currently working on developing a portfolio
 - 💞️ I’m looking to collaborate on any projects where I could learn, explore, and make an impact. 
 - 📫 Reach out to me on linkedIn: https://www.linkedin.com/in/parthvi-rana/
 
